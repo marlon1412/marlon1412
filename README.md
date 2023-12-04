@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @marlon
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Marlon Orpiada
+- 👀 I’m interested in Web Development and  Game Development
 - 🌱 I’m currently learning HTML/CSS/Javascript
-- 💞️ I’m looking to work in Google
+- 💞️ I’m looking forward to collaborate with other developers
 
 
 <!---
