@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marlon Orpiada
 - 👀 I’m interested in Web Development and  Game Development
-- 🌱 I’m currently learning HTML/CSS/Javascript
+- 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking forward to collaborate with other developers
 
 <h3 align="left">Languages and Tools:</h3>
