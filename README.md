@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Marlon Orpiada</h1>
-<iframe src="https://giphy.com/embed/maNB0qAiRVAty" align="right" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/maNB0qAiRVAty">via GIPHY</a></p>
-
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/maNB0qAiRVAty">
 - 🔭 I’m currently working on **my school projects**
 
 - 👀 I’m interested in Web Development and  Game Development
