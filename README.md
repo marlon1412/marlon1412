@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Marlon Orpiada</h1>
-<img align="right" alt="Coding" width="300" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-85.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif">
 - 🔭 I’m currently working on **my school projects**
 
 - 👀 I’m interested in Web Development and  Game Development
