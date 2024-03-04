@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Marlon Orpiada</h1>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/explore/cat-using-computer">
 
 - 🔭 I’m currently working on **my school projects**
 
