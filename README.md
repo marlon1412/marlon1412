@@ -18,7 +18,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon1412&layout=compact&bg_color=00000000&text_color=fff2cc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon1412&layout=compact&bg_color=00000000&text_color=fff2cc&title_color=fff2cc&hide_border=true)
 
 <!---
 marlon1412/marlon1412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
