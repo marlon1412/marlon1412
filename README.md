@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Web Development and  Game Development
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Front-end Programming**
 
 - 👯 I’m looking to collaborate with **other Developers**
 
