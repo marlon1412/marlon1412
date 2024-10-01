@@ -3,7 +3,7 @@
 
 <h1>Hi 👋, I'm Marlon </h1>
 
-- 🔭 I’m currently working on **my school projects**
+- 🔭 I’m currently working on **our capstone poject**
 
 - 👀 I’m interested in Web Development and  Game Development
 
